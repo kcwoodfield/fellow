@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button"
 
 const headingFont = localFont({
-  src: "../../public/fonts/Geist-Medium.woff2"
+  src: "../../public/fonts/Geist-Black.woff2"
 });
 
 const MarketingPage = () => {
