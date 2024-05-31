@@ -14,6 +14,11 @@ const headingFont = localFont({
   src: "../../public/fonts/Geist-Black.woff2"
 });
 
+/**
+ * Renders the marketing page for the Fellow app.
+ *
+ * @returns The JSX element representing the marketing page.
+ */
 const MarketingPage = () => {
     return (
       <div className="flex items-center justify-center flex-col">
