@@ -2,7 +2,7 @@
 
 A task management system.
 
-URL: https://fellow-lilac.vercel.app/
+https://fellow-lilac.vercel.app/
 
 ### Getting Started
 
@@ -12,7 +12,7 @@ Run the development server:
 npm run dev
 ```
 
-### Technology
+### Technology Used
 
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
